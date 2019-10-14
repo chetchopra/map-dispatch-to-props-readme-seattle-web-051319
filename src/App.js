@@ -26,5 +26,6 @@ const mapStateToProps = (state) => {
     items: state.items
   };
 };
+//fsd
 
 export default connect(mapStateToProps)(App);
